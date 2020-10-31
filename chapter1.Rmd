@@ -11,3 +11,10 @@ date()
 ```
 The text continues here.
 
+It was a success to be able to download the programes and see the GITRepository link.
+I have some concerns about the time required to learn all this so new to me.
+Zero time because of work!!!
+Teaching many courses this fall. But all this is so new and intriguing...how can I do?
+The goodwill is there... let's see where all this will take me...
+
+https://github.com/MarchGit67/IODS-project.git
